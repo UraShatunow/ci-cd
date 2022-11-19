@@ -1,2 +1,2 @@
 
-export const division = (a, b) => a / b;
+export const division = (x, y) => x / y;
